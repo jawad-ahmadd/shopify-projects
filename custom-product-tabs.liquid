@@ -1,0 +1,16 @@
+{% comment %} Custom Product Accordion/Tabs by Jawad Ahmad {% endcomment %}
+<div class="product-tabs">
+  <details>
+    <summary>{{ section.settings.tab_title }}</summary>
+    <p>{{ product.description }}</p>
+  </details>
+</div>
+
+{% schema %}
+{
+  "name": "Custom Tabs",
+  "settings": [
+    { "type": "text", "id": "tab_title", "label": "Tab Title", "default": "Product Description" }
+  ]
+}
+{% endschema %}
