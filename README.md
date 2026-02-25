@@ -40,7 +40,21 @@ Welcome to the technical hub of **Jawad Ahmad**. I don't just "build websites"�
 - **Business Focus:** My goal is simple—increasing your ROI (Return on Investment).
 
 ---
+## 📱 Featured Mobile-First Designs
 
+<p align="center">
+  <img src="home-page-02.jpg" width="200" />
+  <img src="product-layout-mobile%2002.jpg" width="200" />
+  <img src="mobile-ux-hero-banner-design%2002.jpg" width="200" />
+  <img src="shopify-product-page-conversion-layout%2001.jpg" width="200" />
+  <img src="Add%20to%20cart%20mobile%20layout%2001.jpg" width="200" />
+  <img src="shopify-jewelry-store-ui.jpg" width="200" />
+  <img src="product-layout-mobile%2003.jpg" width="200" />
+  <img src="footer%20layout%20with%20social%20link%2001.jpg" width="200" />
+</p>
+
+> [!TIP]
+> View the repository files to see the complete collection of 30+ design samples.
 ## 📬 Ready to Scale Your Brand?
 Let’s discuss your project goals and how I can help you dominate the market.
 
