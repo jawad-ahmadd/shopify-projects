@@ -1,0 +1,15 @@
+{% comment %} Custom Announcement Bar by Jawad Ahmad {% endcomment %}
+<div class="custom-announcement" style="background: {{ section.settings.bg_color }}; color: {{ section.settings.text_color }}; text-align: center; padding: 10px;">
+  <p>{{ section.settings.message }}</p>
+</div>
+
+{% schema %}
+{
+  "name": "Custom Announcement",
+  "settings": [
+    { "type": "text", "id": "message", "label": "Message", "default": "Free Shipping on Orders Over $50!" },
+    { "type": "color", "id": "bg_color", "label": "Background Color", "default": "#000000" },
+    { "type": "color", "id": "text_color", "label": "Text Color", "default": "#ffffff" }
+  ]
+}
+{% endschema %}
