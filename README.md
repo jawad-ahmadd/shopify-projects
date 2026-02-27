@@ -58,4 +58,6 @@ Welcome to the technical hub of **Jawad Ahmad**. I don't just "build websites"�
 ## 📬 Ready to Scale Your Brand?
 Let’s discuss your project goals and how I can help you dominate the market.
 
-👉 **[Hire Me on Upwork] https://www.upwork.com/freelancers/~01268126f753065c26?mp_source=share
+ **Hire Me on Upwork**
+
+[![Upwork Profile](https://img.shields.io/badge/Upwork-Hire%20Me-14a800?style=for-the-badge&logo=upwork&logoColor=white&labelColor=2b2b2b)](https://www.upwork.com/freelancers/~01268126f753065c26?mp_source=share)
